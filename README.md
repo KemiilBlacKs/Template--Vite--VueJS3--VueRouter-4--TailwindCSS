@@ -1,4 +1,4 @@
-# Template Vite + VueJS 3 + VueRouter4 + TailwindCSS3
+# Template Vite + VueJS 3 + VueRouter 4 + TailwindCSS 3
 
 This template should help get you started developing with Vue 3 in Vite with Vue router 4 and TailwindCSS3 (jit mode
 permanent).

@@ -36,7 +36,7 @@ const routes = [
 
 const router = createRouter({
     // 4. Provide the history implementation to use. We are using the hash history for simplicity here.
-    history: createWebHistory(), // TODO: Modifier les paramètres apache pour le history mode coté serveur => https://next.router.vuejs.org/guide/essentials/history-mode.html
+    history: createWebHistory(), // TODO: Modify apache settings for server-side history mode => https://next.router.vuejs.org/guide/essentials/history-mode.html
     routes, // short for `routes: routes`
     scrollBehavior(to, from, savedPosition) {
         // always scroll to top
